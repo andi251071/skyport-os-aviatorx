@@ -1,6 +1,6 @@
 # SKYPORT GENESIS  
 ### Revolusi Peradaban Udara dan AI Global  
-#### oleh: Andi Kurniawan
+#### oleh: Andi Krisna Widjayanto
 
 ---
 
