@@ -1,5 +1,4 @@
 ---
-
 ## 🔒 Licensing & Ethics
 
 All core orchestration logic is protected and available **only upon collaboration agreement**.  
